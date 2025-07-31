@@ -5,11 +5,11 @@ This project focuses on analyzing monthly sales data to uncover insights, trends
 This repository contains Python scripts and Jupyter Notebooks used to analyze retail sales data across different months in 2019. The dataset includes customer purchase behavior, product performance, and sales trends.
 
 🧰 Tools & Technologies
-Python 3.x
-Pandas
-NumPy
-Matplotlib
-Jupyter Notebook
+Python 3.x,
+Pandas,
+NumPy,
+Matplotlib,
+Jupyter Notebook,
 Excel (.xlsx) Files
 
 📈 Key Features
