@@ -1,4 +1,4 @@
-![https://www.finereport.com/en/wp-content/uploads/2020/06/2020062201I-1536x864.png]
+![Sales_Analysis](https://www.finereport.com/en/wp-content/uploads/2020/06/2020062201I-1536x864.png)
 📊 Sales Analysis Project
 This project focuses on analyzing monthly sales data to uncover insights, trends, and patterns that can help improve business decisions.
 
